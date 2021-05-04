@@ -1,4 +1,4 @@
-- 👋 Hi, I’m VASDU GARG
+- 👋 Hi, I’m VASU GARG
 - 👀 I’m interested in web development
 - 🌱 I’m currently workin on backend 
 - 📫 you can reach me anytime by calling on 8700234499 or writing a mail at vasugarga@gmail.com
